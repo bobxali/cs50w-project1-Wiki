@@ -1,6 +1,4 @@
 # cs50w-project1-Wiki
-# cs50w-project1-Wiki
-# cs50w-project1-Wiki
 
 **Design and implement a Wikipedia-like online encyclopedia using Django and Markdown.**
 
